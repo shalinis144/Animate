@@ -1,2 +1,1 @@
-# Animate
-Image Animations
+# animate-image
